@@ -1,0 +1,39 @@
+# Fichiers Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Environnements virtuels
+venv/
+*.venv
+env/
+ENV/
+
+# Fichiers de développement
+*.log
+*.sql
+*.sqlite
+
+# Fichiers de distribution
+dist/
+build/
+*.egg-info/
+
+# Fichiers de configuration de l'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Autres fichiers
+.DS_Store
+*.pid
+*.pid.lock
+*.seed
+*.lock
+*.DS_Store?
+*.map
+*.pyc, *.pyo, *.pyd
+*.fuse_hidden*
