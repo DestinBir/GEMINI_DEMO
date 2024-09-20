@@ -18,8 +18,8 @@ Ce projet est un chatbot basé sur l'API **Google Generative AI**, utilisant le 
 1. **Cloner le dépôt :**
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repository.git
-cd votre-repository
+git clone https://github.com/DestinBir/GEMINI_DEMO.git
+cd GEMINI_DEMO
 ```
 
 2. **Installer les dépendances nécessaires :**
