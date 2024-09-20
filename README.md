@@ -42,7 +42,7 @@ GOOGLE_API_KEY = 'votre-cle-api-google'
 Lancez le chatbot en exécutant le fichier Python après avoir configuré l'API :
 
 ```bash
-python chatbot.py
+python chatbot-text.py
 ```
 
 Le chatbot commencera à interagir avec vous en ligne de commande. Il attendra une entrée utilisateur et répondra automatiquement via le modèle **Gemini-1.5-pro-latest**.
@@ -54,12 +54,20 @@ Le chatbot commencera à interagir avec vous en ligne de commande. Il attendra u
       Gemini AI: Bonjour ! Je vais bien, merci. Comment puis-je vous aider aujourd'hui ?
 ```
 
-### Avec l'interface :
+### Avec l'interface Web:
 
 Lancez l'interface du chatbot en exécutant le fichier Python après avoir configuré l'API :
 
 ```bash
 python interface.py
+```
+
+### Avec l'interface Graphique:
+
+Lancez l'interface du chatbot en exécutant le fichier Python après avoir configuré l'API :
+
+```bash
+python new.py
 ```
 
 ## Paramètres de génération

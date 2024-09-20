@@ -1,6 +1,6 @@
 import google.generativeai as generativeai
 
-GOOGLE_API_KEY = 'AIzaSyDP1-kZR75Wy2EWnpdhbvgCDJ6pjl-q3UA'
+GOOGLE_API_KEY = 'votre-cle-api-google'
 generativeai.configure(api_key=GOOGLE_API_KEY)
 model = generativeai.GenerativeModel('gemini-1.0-pro-latest')
 
