@@ -125,7 +125,7 @@ Voici le code principal du chatbot, utilisant l'API Google Generative AI pour en
 ```python
 import google.generativeai as generativeai
 
-GOOGLE_API_KEY = 'AIzaSyDP1-kZR75Wy2EWnpdhbvgCDJ6pjl-q3UA'
+GOOGLE_API_KEY = 'votre-cle-api-google'
 generativeai.configure(api_key=GOOGLE_API_KEY)
 
 generation_config = {
