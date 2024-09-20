@@ -1,4 +1,4 @@
-English version `README_en.md`
+English version [ENGLISH](./README_en.md)
 
 # Google Generative AI Chatbot
 
