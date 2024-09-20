@@ -1,3 +1,5 @@
+English version `README_en.md`
+
 Voici le fichier `README.md` avec toutes les sections mélangées de manière cohérente :
 
 # Google Generative AI Chatbot
@@ -27,6 +29,7 @@ Assurez-vous d'avoir Python 3.x installé et exécutez la commande suivante pour
 ```bash
 pip install google-generativeai
 pip install streamlit
+pip install kivy
 ```
 
 3. **Configurer la clé API :**
