@@ -1,7 +1,5 @@
 English version `README_en.md`
 
-Voici le fichier `README.md` avec toutes les sections mélangées de manière cohérente :
-
 # Google Generative AI Chatbot
 
 Ce projet est un chatbot basé sur l'API **Google Generative AI**, utilisant le modèle **Gemini-1.5-pro-latest** pour générer des réponses à partir de conversations en temps réel. Il intègre des paramètres de génération personnalisables ainsi que des filtres de sécurité pour garantir une utilisation sûre et contrôlée du modèle génératif.
